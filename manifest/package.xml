@@ -32,5 +32,10 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>Lead.Source_Id__c</members>
+        <members>Lead.Source_Created_Date__c</members>
+        <name>CustomField</name>
+    </types>
     <version>48.0</version>
 </Package>
